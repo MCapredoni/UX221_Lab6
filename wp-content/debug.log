@@ -30,7 +30,10 @@
 [12-Mar-2024 00:26:20 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [12-Mar-2024 00:27:32 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [12-Mar-2024 00:29:18 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
-[31-Mar-2024 03:01:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
-[31-Mar-2024 03:01:49 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
-[31-Mar-2024 03:01:49 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
-[31-Mar-2024 03:01:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[18-Mar-2024 23:38:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[18-Mar-2024 23:38:24 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[18-Mar-2024 23:38:24 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[19-Mar-2024 00:06:49 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[19-Mar-2024 00:06:49 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[19-Mar-2024 00:21:36 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[19-Mar-2024 00:23:25 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
